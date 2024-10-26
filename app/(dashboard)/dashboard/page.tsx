@@ -1,6 +1,6 @@
 import Link from "next/link";
 
-const Dashboard = () => {
+const DashboardPage = () => {
 	return (
 		<>
 			<h1 className="text-3xl">Dashboard</h1>
@@ -13,4 +13,4 @@ const Dashboard = () => {
 	);
 }
 
-export default Dashboard
+export default DashboardPage

@@ -1,5 +1,5 @@
 import Link from "next/link";
-import { User } from "@/app/dashboard/users/page";
+import { User } from "@/app/(dashboard)/dashboard/users/page";
 
 const UserDetailsPage = async ({ params }: { params: { id: number } }) => {
 	const { id } = await params;
