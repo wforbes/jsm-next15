@@ -15,3 +15,8 @@ pnpm dev
 # or
 bun dev
 ```
+
+## Video Notes
+- Part 0: Initial project setup and folder structure (0:00 - 17:00)
+- Part 1: "When to use Server and Client Components?" (17:00 - 23:00)
+	- [https://nextjs.org/docs/app/building-your-application/rendering/composition-patterns](https://nextjs.org/docs/app/building-your-application/rendering/composition-patterns)
