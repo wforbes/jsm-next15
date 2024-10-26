@@ -1,6 +1,9 @@
 import Link from "next/link";
 
-const About = () => {
+const AboutPage = () => {
+
+	throw new Error("Not implemented");
+
 	return (
 		<>
 			<h1 className="text-3xl">About</h1>
@@ -9,4 +12,4 @@ const About = () => {
 	);
 }
 
-export default About
+export default AboutPage
