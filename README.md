@@ -29,3 +29,5 @@ bun dev
 - Part 2.2: Using the layout file (30:15 - 33:08)
 - Part 2.3: Using Route Groups (33:08 - 36:04)
 - Part 2.4: Loading files (36:04 - 40:23)
+- Part 3.1: Data Fetching - Client vs Server (40:23 - 46:46)
+- 
