@@ -28,3 +28,4 @@ bun dev
 	- (extra) I used [https://jsonplaceholder.typicode.com/](https://jsonplaceholder.typicode.com/) for the dummy data API
 - Part 2.2: Using the layout file (30:15 - 33:08)
 - Part 2.3: Using Route Groups (33:08 - 36:04)
+- Part 2.4: Loading files (36:04 - 40:23)
