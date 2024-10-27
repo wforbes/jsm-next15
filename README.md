@@ -29,5 +29,8 @@ bun dev
 - Part 2.2: Using the layout file (30:15 - 33:08)
 - Part 2.3: Using Route Groups (33:08 - 36:04)
 - Part 2.4: Loading files (36:04 - 40:23)
-- Part 3.1: Data Fetching - Client vs Server (40:23 - 46:46)
-- 
+- Part 3.1: Server side - Data fetching (40:23 - 46:46)
+- Part 3.2: Server side - Incremental Static Regeneration (ISR) (46:46 - 52:00)
+	- (extra) I used [https://api.pexels.com/v1/](https://api.pexels.com/v1/) for the photos API
+- Part 3.3: Server side - Suspense (PPR) (52:00 - 52:10)
+	- (extra) I created an AlbumGrid component wrapped in Suspense to try Partial Pre-rendering (PPR)
