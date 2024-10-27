@@ -1,11 +1,17 @@
 import AlbumCardGrid from '@/app/components/AlbumCardGrid';
 import { Suspense } from 'react';
+import { Metadata } from 'next';
 
 export type Album = {
 	id: number;
 	title: string;
 	photo: string | null;
 }
+
+export const metadata: Metadata = {
+	title: "Albums | JSM - Next15",
+	description: "The Albums page of JSM - Next15",
+};
 
 async function AlbumsServerPage() {
 	return (

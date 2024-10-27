@@ -1,8 +1,14 @@
 import Link from "next/link";
+import { Metadata } from "next";
+
+export const metadata: Metadata = {
+	title: "About | JSM - Next15",
+	description: "The About page of JSM - Next15",
+};
 
 const AboutPage = () => {
 
-	throw new Error("Not implemented");
+	//throw new Error("Not implemented"); // for testing error boundary
 
 	return (
 		<>

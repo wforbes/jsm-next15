@@ -36,3 +36,7 @@ bun dev
 	- (extra) I created an AlbumGrid component wrapped in Suspense to try Partial Pre-rendering (PPR)
 - Part 4: Client calls to CRUD API Routes (52:10 - 57:29)
   - (extra) I made a Books page with a form to add a book and a button to delete a book... but its buggy, this intro is only example code
+- Part 5: Metadata (57:29 - 1:01:43)
+	- (extra) I created client components for Albums and Books so that the pages could be server components and allow metadata to be set
+	- (BUG) I found that GET books/id was not working well with params. It may be that I don't know how to use this new api format or that there is a bug with Next.js 15.
+
