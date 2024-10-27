@@ -21,6 +21,8 @@ bun dev
   - Use `rafce` in a new file for React functional component snippet
 
 ## Video Notes
+
+### Intro Project
 - Part 0: Initial project setup and folder structure (0:00 - 17:00)
 - Part 1: "When to use Server and Client Components?" (17:00 - 22:30)
 	- Page mentioned in the video: [https://nextjs.org/docs/app/building-your-application/rendering/composition-patterns](https://nextjs.org/docs/app/building-your-application/rendering/composition-patterns)
