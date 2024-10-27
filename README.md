@@ -34,3 +34,5 @@ bun dev
 	- (extra) I used [https://api.pexels.com/v1/](https://api.pexels.com/v1/) for the photos API
 - Part 3.3: Server side - Suspense (PPR) (52:00 - 52:10)
 	- (extra) I created an AlbumGrid component wrapped in Suspense to try Partial Pre-rendering (PPR)
+- Part 4: Client calls to CRUD API Routes (52:10 - 57:29)
+  - (extra) I made a Books page with a form to add a book and a button to delete a book... but its buggy, this intro is only example code
