@@ -42,3 +42,6 @@ bun dev
 	- (extra) I created client components for Albums and Books so that the pages could be server components and allow metadata to be set
 	- (BUG) I found that GET books/id was not working well with params. It may be that I don't know how to use this new api format or that there is a bug with Next.js 15.
 
+### YC Directory
+- Part 0: Project setup (1:01:43 - 1:09:09)
+- Part 1: Authentication with NextAuth (1:09:09 - 1:28:20)
