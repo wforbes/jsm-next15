@@ -1,3 +1,5 @@
+# JavaScript Mastery - Next.js 15 Crash Course
+
 This is a project created by following the tutorial: [Next.js 15 Crash Course | Build and Deploy a Production-Ready Full Stack App](https://www.youtube.com/watch?v=Zq5fmkH0T78).<br />
 It's a [Next.js](https://nextjs.org) project made from [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).<br />
 
@@ -45,3 +47,8 @@ bun dev
 ### YC Directory
 - Part 0: Project setup (1:01:43 - 1:09:09)
 - Part 1: Authentication with NextAuth (1:09:09 - 1:28:20)
+- Part 2: Theming and Fonts, Hero Section (1:28:20 - 1:44:13)
+- Part 3: Search Form (1:44:13 - 1:55:30)
+- Part 4: Startup Section & Startup Card (1:55:30 - 2:12:37)
+- Part 5: Sanity CMS Setup (2:12:37 - 2:19:53)
+

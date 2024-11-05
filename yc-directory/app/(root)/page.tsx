@@ -4,9 +4,9 @@ import StartupCard, { StartupCardType } from "@/components/StartupCard";
 
 export default async function Home({ searchParams }: { searchParams: Promise<{ query?: string }> }) {
 	const query = (await searchParams).query;
-	const posts = [
+	const posts: StartupCardType[] = [
 		{
-			_createdAt: new Date(),
+			_createdAt: new Date().toISOString(),
 			views: 55,
 			author: { _id: 1, name: 'Will Forbes' },
 			_id: 1,
