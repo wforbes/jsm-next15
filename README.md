@@ -51,4 +51,5 @@ bun dev
 - Part 3: Search Form (1:44:13 - 1:55:30)
 - Part 4: Startup Section & Startup Card (1:55:30 - 2:12:37)
 - Part 5: Sanity CMS Setup (2:12:37 - 2:19:53)
+- Part 6: Sanity Schema (2:19:53 - 2:33:00)
 
