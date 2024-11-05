@@ -52,4 +52,5 @@ bun dev
 - Part 4: Startup Section & Startup Card (1:55:30 - 2:12:37)
 - Part 5: Sanity CMS Setup (2:12:37 - 2:19:53)
 - Part 6: Sanity Schema (2:19:53 - 2:33:00)
+- Part 7: Sanity Data Fetching and Type Safety (2:33:00 - 2:45:05)
 
