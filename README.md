@@ -53,4 +53,4 @@ bun dev
 - Part 5: Sanity CMS Setup (2:12:37 - 2:19:53)
 - Part 6: Sanity Schema (2:19:53 - 2:33:00)
 - Part 7: Sanity Data Fetching and Type Safety (2:33:00 - 2:45:05)
-
+- Part 8: Cache and Sanity Live API w/ Next.js (2:45:05 - 2:53:37)
