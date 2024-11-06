@@ -54,3 +54,5 @@ bun dev
 - Part 6: Sanity Schema (2:19:53 - 2:33:00)
 - Part 7: Sanity Data Fetching and Type Safety (2:33:00 - 2:45:05)
 - Part 8: Cache and Sanity Live API w/ Next.js (2:45:05 - 2:53:37)
+- Part 9: Real-time Search w/ URL Query Params (2:53:37 - 2:56:28)
+
